@@ -8,9 +8,7 @@
     "lint": "next lint",
     "postinstall": "prisma generate"
   },
-  "npmrc": {
-    "legacy-peer-deps": true
-  },
+
   "prisma": {
     "seed": "tsx --require dotenv/config scripts/seed.ts"
   },
