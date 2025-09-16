@@ -2,3 +2,7 @@ node_modules/
 .next/
 .prisma/
 .env
+out/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

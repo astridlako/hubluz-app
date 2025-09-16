@@ -1,1 +1,1 @@
-{"version":1,"functions":{"/analytics":{},"/auth/signin":{},"/calendar":{},"/api/signup":{},"/auth/signup":{},"/dashboard":{},"/settings":{},"/composer":{},"/api/auth/[...nextauth]":{},"/library":{}}}
+{"version":1,"functions":{"/api/auth/[...nextauth]":{},"/api/signup":{},"/analytics":{},"/calendar":{},"/library":{},"/dashboard":{},"/settings":{},"/auth/signin":{},"/composer":{},"/auth/signup":{}}}
