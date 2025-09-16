@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "buildCommand": "cd app && npm install --legacy-peer-deps && npx prisma generate && npm run build",
+  "buildCommand": "cd app && npm run build",
   "devCommand": "cd app && npm run dev",
   "installCommand": "cd app && npm install --legacy-peer-deps",
   "framework": "nextjs",
