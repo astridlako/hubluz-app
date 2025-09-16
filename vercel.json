@@ -4,5 +4,10 @@
   "devCommand": "cd app && npm run dev",
   "installCommand": "cd app && npm install --legacy-peer-deps",
   "framework": "nextjs",
-  "outputDirectory": "app/.next"
+  "outputDirectory": "app/.next",
+  "functions": {
+    "app/api/**/*.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
 }
